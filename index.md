@@ -1,29 +1,14 @@
 ---
-title: pafatbn forever!
+title: Research
 layout: template
 filename: index
 --- 
 
-# patrickandfrantonarethebestninjas
+# Research Interests
 
-## Created by [Patrick Huston](http://www.patrickhuston.com/) and [Franton Lin](frantonlin.com)
+Most of the earths freshwater is frozen. In fact, less than **1.5%** is liquid and found on the surface, and this water is not distributed evenly around the globe. As the effects of climate change and human activity continue to degrade water quality, even less of that water is available for use by humans and many other organisms that rely on clean water for survival. Some of these threats include invasive species, toxic pollutants, nutrient pollution and eutrophication, harmful algal blooms, and restructured ecosystems. It is of vital importance that we protect and manage our freshwater resources for today and future generations. 
 
-#### What is patrickandfrantonarethebestninjas?
-This project aims to demonstrate without a doubt why Patrick and Franton are the best ninjas. 
+Alhtough the threats listed above, and others not listed, are unique and important challenges, my work braodly focuses on how climate and watershed infleunces impact freshwater quality. I have tackled these questions using diverse approaches including field monitoring, experimental work, and computer modeling. My work to date has primarily focused on how climate and watersheds shape phytoplankton dyanmics in lakes, with an emphasis on cyanobacterial blooms. I've done work on these topics in small inland lakes as well as Lake Superior. I am also interested the role of streams in lake water quality, how organic nutrients affects phtyoplankton community structure and function, and integrating field and laboratory data with new modeling techniques. 
 
-#### How can I use patrickandfrantonarethebestninjas?
-Come to office hours and git tutorials. Baked goods and cash are also accepted.
 
-#### Dependencies
-patrickandfrantonarethebestninjas depends heavily on the perception of students. A lot of research has been done looking into ways of monitoring and directly modifying how students perceive ninjas, and we have implemented this technology to the fullest extent. 
 
-#### How to contribute?
-To contribute to patrickandfrantonarethebestninjas, write a heart-felt love note and submit a PR. 
-
-#### License
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
