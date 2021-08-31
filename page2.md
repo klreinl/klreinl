@@ -1,7 +1,7 @@
 ---
 title: Publications
 layout: template
-filename: page4 
+filename: page2 
 --- 
 
 A life cycle model for cyanobacterial blooms in Lake Superior	 _in prep_
