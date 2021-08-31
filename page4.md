@@ -45,7 +45,7 @@ ASLO 2021, Virtual
 **KL Reinl**, RW Sterner, TA Andersen, BM Lafrancois, Poster Presentation - "A cyanobacteria life cycle model for blooms in oligotrophic Lake Superior"
 IAGLR 2021, Virtual
 
-""KL Reinl"", K Yokota, Oral Presentation - "ROLES OF AKINETES (DORMANT CELLS) IN CYANOBACTERIAL BLOOMS IN NUTRIENT POOR WATERS – LITERATURE REVIEW"
+**KL Reinl**, K Yokota, Oral Presentation - "Roles Of Akinetes (Dormant Cells) in Cyanobacterial Blooms in Nutrient Poor Waters – Literature Review"
 NALMS 2020, Virtual
 
 **KL Reinl**, RW Sterner, S Brovold, and BM Lafrancois, Poster Presentation - "Sources of cyanobacteria blooms in oligotrophic Lake Superior"
