@@ -68,19 +68,19 @@ ASLO 2016 Ocean Sciences Meeting, New Orleans, LA
 
 
 ### Awards  
-International Association for Great Lakes Research David M. Dolan Scholarship 2018
+International Association for Great Lakes Research David M. Dolan Scholarship 2018  
 Award: $5,000 USD  
 
-Graduate Research Fellowship, Cooperative Institute for Great Lakes Research 2017 – 2018
+Graduate Research Fellowship, Cooperative Institute for Great Lakes Research 2017 – 2018  
 Award: $25,000 USD  
 
-Center for water and Society Travel Grant, Michigan Technological University 2016
+Center for water and Society Travel Grant, Michigan Technological University 2016  
 Award: $500 USD  
 
-Ecosystem Science Center Travel Grant, Michigan Technological University 2016
+Ecosystem Science Center Travel Grant, Michigan Technological University 2016  
 Award: $750 USD
 
-2nd Place for Poster Presentation - MTU Graduate Research Colloquium 2015
+2nd Place for Poster Presentation - MTU Graduate Research Colloquium 2015  
 
 ### Teaching Experience  
 **Graduate Teaching Assistant – General Biology I	Spring 2018/2019**
