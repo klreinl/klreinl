@@ -39,16 +39,31 @@ Moen S., **K.L. Reinl**, E.L. Green, K. Rhude, M. Castro, and G. Spilkia. 2019. 
 **Reinl, Kaitlin**. 2016. Assessing the impacts of climate change on the surface temperature of inland lakes in Michigan. Master’s Thesis. Michigan Technological University.  
 
 ### Presentations    
-Oral Presentation – “Potential Sources of Cyanobacteria to Lake Superior”   
+**KL Reinl**, RW Sterner, TA Andersen, BM Lafrancois, Oral Presentation - "A cyanobacteria life cycle model for blooms in oligotrophic Lake Superior"
+ASLO 2021, Virtual
+
+**KL Reinl**, RW Sterner, TA Andersen, BM Lafrancois, Poster Presentation - "A cyanobacteria life cycle model for blooms in oligotrophic Lake Superior"
+IAGLR 2021, Virtual
+
+""KL Reinl"", K Yokota, Oral Presentation - "ROLES OF AKINETES (DORMANT CELLS) IN CYANOBACTERIAL BLOOMS IN NUTRIENT POOR WATERS – LITERATURE REVIEW"
+NALMS 2020, Virtual
+
+**KL Reinl**, RW Sterner, S Brovold, and BM Lafrancois, Poster Presentation - "Sources of cyanobacteria blooms in oligotrophic Lake Superior"
+GLEON 2019, Hunstville, ON, CA
+
+**KL Reinl**, RW Sterner, S Brovold, and BM Lafrancois, T Miller, Poster Presentation - "Drivers and sources of cyanobacterial blooms in Lake Superior"
+Gordon Research Conference (Mycotoxins and Phycotoxins) 2019, Easton, MA
+
+**KL Reinl**, RW Sterner, and BM Lafrancois, Oral Presentation – “Potential Sources of Cyanobacteria to Lake Superior”   
 ASLO 2018, San Juan, Puerto Rico  
 	
-Oral Presentation – “Potential Sources of Cyanobacteria to Lake Superior”  
+**KL Reinl**, RW Sterner, and BM Lafrancois, Oral Presentation – “Potential Sources of Cyanobacteria to Lake Superior”  
 State of Lake Superior Conference 2018, Houghton, MI  
 
-Oral Presentation – “Response of the Deep Chlorophyll Maximum in Lake Superior to Changing Temperatures”   
+**KL Reinl**, RW Sterner, JA Austin, Oral Presentation – “Response of the Deep Chlorophyll Maximum in Lake Superior to Changing Temperatures”   
 IAGLR 61st Annual Conference 2018, Toronto, Canada  
 
-Poster Presentation – “Modeling the Impact of Climate Change on Lake Thermal Structure for Small Inland Lakes in the Mid-latitudes”   
+**KL Reinl**, J Wagenbrenner, NR Urban, Poster Presentation – “Modeling the Impact of Climate Change on Lake Thermal Structure for Small Inland Lakes in the Mid-latitudes”   
 ASLO 2016 Ocean Sciences Meeting, New Orleans, LA  
 
 
@@ -64,41 +79,41 @@ Ecosystem Science Center Travel Grant, Michigan Technological University        
 2nd Place for Poster Presentation - MTU Graduate Research Colloquium		2015
 
 ### Teaching Experience  
-Graduate Teaching Assistant – General Biology I	Spring 2018/2019
+**Graduate Teaching Assistant – General Biology I	Spring 2018/2019**
 University of Minnesota Duluth, Duluth, MN
 Assisted students during lectures, taught labs and discussions, graded homework, held office hours, and participated in weekly planning meetings for professors and GTAs
 
-Graduate Teaching Assistant – Forest and Landscape Hydrology	 Spring 2014
+**Graduate Teaching Assistant – Forest and Landscape Hydrology	 Spring 2014**
 Michigan Technological University, Houghton, MI
 Graded written homework and guest lectured for a junior-level undergraduate class
 
 ### Outreach  
-Bell Museum Minnesota Waters Spotlight Science event -	Apr 2020
+**Bell Museum Minnesota Waters Spotlight Science event -	Apr 2020**
 Provided interview footage discussing algal bloom research in Lake Superior
 
-Lake Superior Youth Symposium – UMD	- May 2019
+**Lake Superior Youth Symposium – UMD	- May 2019**
 Keynote speaker for symposium and volunteer group leader
 
-Rivers2Lake, Lake Superior – National Estuarine Research Reserve -	 Jul 2018
+**Rivers2Lake, Lake Superior – National Estuarine Research Reserve -	 Jul 2018**
 	Presented research to K-12 teachers and demonstrated field collection techniques
   
-Piedmont Elementary, Duluth, MN -	       Nov 2017
+**Piedmont Elementary, Duluth, MN -	       Nov 2017**
 Teaching 4th-grade students about oil spills using STEM lab kits
 
-Denfield High School, Duluth, MN	- Apr 2017
+**Denfield High School, Duluth, MN	- Apr 2017**
 Presenting research to 9th & 10th-grade student and discussing careers in the STEM fields  
 
-Duluth East High School, Duluth, MN - Feb 2017  
+**Duluth East High School, Duluth, MN - Feb 2017**  
 Assisting 7th-grade students in developing science fair projects and teaching students about the scientific process  
 
 ### Affilitations  
-ASLO - Association for the Sciences of Limnology and Oceanography
+_ASLO_ - Association for the Sciences of Limnology and Oceanography
 
-IAGLR – International Association for Great Lakes Research
+_IAGLR_ – International Association for Great Lakes Research
 
-GLEON – Global Lake Ecological Observatory Network
+_GLEON_ – Global Lake Ecological Observatory Network
 
-NWIS – Northwoods Women in Science 
+_NWIS_ – Northwoods Women in Science 
 
 
 
