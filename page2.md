@@ -1,7 +1,7 @@
 ---
 title: CV
 layout: template
-filename: cv
+filename: page2
 --- 
 
 ### Education  
