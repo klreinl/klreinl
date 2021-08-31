@@ -1,7 +1,7 @@
 ---
 title: Research
 layout: template
-filename: index
+filename: page2
 --- 
 
 # Research Interests
