@@ -8,7 +8,7 @@ filename: index
 
 ## About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/51453715/131424878-f22ccf78-f776-45fe-9bad-d451c8408b6c.jpg" height=200>  
+<img align="right" src="https://user-images.githubusercontent.com/51453715/131424878-f22ccf78-f776-45fe-9bad-d451c8408b6c.jpg" height=300>  
 <img align="right" src="https://user-images.githubusercontent.com/51453715/131366491-5906f6f8-ac70-4ca5-af20-6221259a3668.jpg" height=300> 
 <br clear="left"/>
 
