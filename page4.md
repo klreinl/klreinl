@@ -52,7 +52,7 @@ NALMS 2020, Virtual
 GLEON 2019, Hunstville, ON, CA
 
 **KL Reinl**, RW Sterner, S Brovold, and BM Lafrancois, T Miller, Poster Presentation - "Drivers and sources of cyanobacterial blooms in Lake Superior"
-Gordon Research Conference (Mycotoxins and Phycotoxins) 2019, Easton, MA
+GRC (Mycotoxins and Phycotoxins) 2019, Easton, MA
 
 **KL Reinl**, RW Sterner, and BM Lafrancois, Oral Presentation – “Potential Sources of Cyanobacteria to Lake Superior”   
 ASLO 2018, San Juan, Puerto Rico  
