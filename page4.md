@@ -36,7 +36,7 @@ Sterner, R. W., **K. L. Reinl**, B. M. Lafrancois, S. Brovold, and T. R. Miller.
 
 Moen S., **K.L. Reinl**, E.L. Green, K. Rhude, M. Castro, and G. Spilkia. 2019. Identifying Science and Monitoring Priorities for Lake Superior: Synthesis of the 2019 Lake Superior CSMI Workshop. Proceedings of a workshop held at the U.S. Environmental Protection Agency Mid-continent Ecological Division Laboratory in Duluth, Minnesota, July 10- 11, 2019. Prepared for the Science Advisory Board of the International Joint Commission by Minnesota Sea Grant. 45 pp.  	 
 
-Reinl, Kaitlin. 2016. Assessing the impacts of climate change on the surface temperature of inland lakes in Michigan. Master’s Thesis. Michigan Technological University.  
+**Reinl, Kaitlin**. 2016. Assessing the impacts of climate change on the surface temperature of inland lakes in Michigan. Master’s Thesis. Michigan Technological University.  
 
 ### Presentations    
 Oral Presentation – “Potential Sources of Cyanobacteria to Lake Superior”   
