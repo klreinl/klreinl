@@ -7,7 +7,7 @@ filename: page4
 ### Education  
 **Ph.D. Water Resources Science – Limnology and Oceanography 2021**  
 University of Minnesota Duluth, Duluth, MN        
-Dissertation Topic: Sources and drivers of cyanobacterial blooms in the western arm of Lake Superior  
+Dissertation Topic: The intersection of climate, watershed influence, and phytoplankton dynamics in Lake Superior 
 
 **M.S. Applied Ecology 2016**  
 Michigan Technological University, Houghton, MI  
