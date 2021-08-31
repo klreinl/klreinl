@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: template
-filename: apage1
+filename: index
 --- 
 
 # Kaitlin (Kait) Reinl 
