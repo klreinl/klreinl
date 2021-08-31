@@ -14,5 +14,19 @@ Most of the earth's freshwater is frozen. In fact, less than **1.5%** is liquid 
 
 Alhtough the threats listed above, and others not listed, are unique and important challenges, my work braodly focuses on how climate and watershed infleunces impact freshwater quality. I have tackled these questions using diverse approaches including field monitoring, experimental work, and computer modeling. My work to date has primarily focused on how climate and watersheds shape phytoplankton dyanmics in lakes, with an emphasis on cyanobacterial blooms. I've done work on these topics in small inland lakes as well as Lake Superior. I am also interested the role of streams in lake water quality, how organic nutrients affects phtyoplankton community structure and function, and integrating field and laboratory data with new modeling techniques. 
 
+## Current Work
+
+
+
+## Past Projects
+
+### Lake Superior Cyanobacteria Life Cycle Model
+
+### Cyanobacterial Blooms in Oligotrophic Systems
+
+### Fluvial Seeding of Cyanobacterial Blooms in Lake Superior
+
+### The Deep Chlorophyll Layer in Lake Superior
+
 
 
