@@ -101,6 +101,10 @@ Award: $750 USD
 2nd Place for Poster Presentation - MTU Graduate Research Colloquium 2015  
 
 ### Teaching Experience  
+
+**Guest Lecturer – Ecological Data	Spring 2022**
+Taught class on Ecological Forecasting to junior level undergraduates at UW-Madison
+
 **Graduate Teaching Assistant – General Biology I	Spring 2018/2019**
 University of Minnesota Duluth, Duluth, MN
 Assisted students during lectures, taught labs and discussions, graded homework, held office hours, and participated in weekly planning meetings for professors and GTAs
