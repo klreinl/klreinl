@@ -23,8 +23,9 @@ University of Oslo, Norway – FILAMO (**Fi**eld, **La**boratory, and **Mo**deli
 Master’s Certificate: Sustainable Water Resources Systems - 2015  
 Michigan Technological University  
 
-### Publications and Papers    
-A life cycle model for cyanobacterial blooms in Lake Superior	 _in prep_  
+### Publications and Papers   
+
+**Reinl K.L.**, Harris, T.D., Elffrich, I., Coker, A., Zhan, Q., De Senerpont Domis, L. Morales-Williams, A.M., Bhattacharya, R., Grossart, H.P., North, R.L., Sweetman, J.N. The role of organic nutrients in structuring freshwater phytoplankton communities in a rapidly changing world. Water Research (2022). [https://doi.org/10.1016/j.watres.2022.118573](https://doi.org/10.1016/j.watres.2022.118573)
 
 **Reinl K.L.**, Brookes J.D., Carey C.C., Harris T.D., Ibelings B.W., Morales‐Williams A.M., et al. (2021). Cyanobacterial blooms in oligotrophic lakes: Shifting the high‐nutrient paradigm. Freshwater Biology, fwb.13791. [https://doi.org/10.1111/fwb.13791](https://doi.org/10.1111/fwb.13791)    
 
@@ -38,7 +39,22 @@ Moen S., **K.L. Reinl**, E.L. Green, K. Rhude, M. Castro, and G. Spilkia. 2019. 
 
 **Reinl, Kaitlin**. 2016. Assessing the impacts of climate change on the surface temperature of inland lakes in Michigan. Master’s Thesis. Michigan Technological University.  
 
-### Presentations    
+### Presentations 
+
+**KL Reinl**, TD Harris, RL North, SA Berger, M Bizic, SH Burnet, PU Cordero, K Finlay, P Almela, HP Grossart, E Jakobsson, LB Knoll, BM Lafrancois, E Massa, AM Morales-Williams, U Obertegger, MC Paule-Mercado, BL Peierls, JA Rusak, S Sarkar, S Sharma, JV Trout-Haney, D van de Waal, JJ Venkiteswaran, DJ Wain, GA Weyhenmeyer, K Yokota – Oral Presentation “Blooms don’t always like it hot” Joint Aquatic Sciences Meeting 2022, Virtual Hybrid
+
+C Buelo, R Ladwig, **KL Reinl**, HA Dugan, PC Hanson – Oral Presentation “Variability In Phenology Among North Temperate Lakes” Joint Aquatic Sciences Meeting 2022, Virtual Hybrid
+
+PC Hanson, R Ladwig, EA Albright, AD Delany, **KL Reinl**, CC Carey – Oral Presentation “Ecosystem memory controls the future of water quality in a eutrophic lake” Joint Aquatic Sciences Meeting 2022, Virtual Hybrid
+
+T Hollenhorst,**KL Reinl**, A Baker, E Cooney – Oral Presentation “Crossing Disciplinary and Agency Boundaries to Understand and Protect Lake Superior: CSMI 2021” Joint Aquatic Sciences Meeting 2022, Virtual Hybrid
+
+JF Lapierre, E Hanks, K Webster, I McCullough, T Wagner, **KL Reinl**, P. Soranno, M Domka, N Bayliss, P Hanly, K King, D Matuszak, L Zhongyao, M Bartley, B. Liu, Q Wang, N Smith, J. Stachelek, J Downing, S Collins, CT Filstrup, E Schleip, J Zhou, N Lottig, C Gries, E Stanley, PN Tan, A Shuvo, M Haite – Oral Presentation “Classification of US lakes as continuous mixtures of geographic archetypes” Joint Aquatic Sciences Meeting 2022, Virtual Hybrid
+
+**KL Reinl**, A Baker, E Cooney, T Hollenhorst – Oral Presentation “Crossing boundaries in disciplines and agencies to understand and protect Lake Superior: CSMI 2021” St. Louis River Summit 2022, Virtual Hybrid
+
+Matt Hudson, BM Lafrancois, **KL Reinl**, E Laplante, Oral Presentation – "The Evolving Story of Cyanobacterial Blooms Along Lake Superior's South Shore” 2nd Annual Harmful Algal Blooms Symposium 2022, Virtual
+
 **KL Reinl**, RW Sterner, TA Andersen, BM Lafrancois, Oral Presentation - "A cyanobacteria life cycle model for blooms in oligotrophic Lake Superior"
 ASLO 2021, Virtual
 
@@ -68,6 +84,8 @@ ASLO 2016 Ocean Sciences Meeting, New Orleans, LA
 
 
 ### Awards  
+2021 UCOWR Outstanding PhD Dissertation Award Recipient
+
 International Association for Great Lakes Research David M. Dolan Scholarship 2018  
 Award: $5,000 USD  
 
