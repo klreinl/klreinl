@@ -4,7 +4,7 @@ layout: template
 filename: page3 
 --- 
 
-A life cycle model for cyanobacterial blooms in Lake Superior	 _in prep_  
+**Reinl K.L.**, Harris, T.D., Elffrich, I., Coker, A., Zhan, Q., De Senerpont Domis, L. Morales-Williams, A.M., Bhattacharya, R., Grossart, H.P., North, R.L., Sweetman, J.N. The role of organic nutrients in structuring freshwater phytoplankton communities in a rapidly changing world. Water Research (2022). [https://doi.org/10.1016/j.watres.2022.118573](https://doi.org/10.1016/j.watres.2022.118573)
 
 **Reinl K.L.**, Brookes J.D., Carey C.C., Harris T.D., Ibelings B.W., Morales‐Williams A.M., et al. (2021). Cyanobacterial blooms in oligotrophic lakes: Shifting the high‐nutrient paradigm. Freshwater Biology, fwb.13791. [https://doi.org/10.1111/fwb.13791](https://doi.org/10.1111/fwb.13791)    
 
