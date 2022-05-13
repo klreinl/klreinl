@@ -17,23 +17,21 @@ Alhtough the threats listed above, and others not listed, are unique and importa
 
 ## Current Work
 
+### HiTIDER
+
+The aim of the History and Topography to Improve Decision-making for Estuary Restoration (HiTIDER) Project is detecting estuarine habitat loss and opportunities for future restoration in and around National Estuarine Research Reserves. This project is funded through the National Estuarine Research Reserve System Science Collaborative and employs historical and elevation-based mapping to describe the past, current, and future condition of major estuaries across the US. 
+
+### Emerald Ash Borer Understory Planting
+
+This work is focused on continuiing work conducted by Nicholas Bolton at Michigan Technological University in 2015-2017 which evaluated the survival of different tree sepcies that had potential for replacing ash trees being killed by the Emeral Ash Borer. This treatments in this project included herbivore repellants, elevation differences, varied planting techniqies, and other factors. We are returning to these sites in 2021 to evaluate survival of differences species and efficacy of dfferent treatments. 
+
 ### Cold-water Blooms
 
 This project is a review paper developed from a the [GLEON](https://gleon.org/) Cyanoabcteria Working Group. Phytoplankton blooms are on the rise globally and present significant challenges to managers and threaten ecological and public health. These blooms are typically associated with high temperatures (>20°C) and high nutrient concentrations. However, blooms are commonly observed outside of these conditions. We present documentation of blooms in cold-water conditions (<15°C), with an emphasis on green algae and cyanobacteria. There are three primary modes of cold-water bloom development: 1) those that were developed in preceding warmer conditions (e.g. >15°C), but observed during cold water temperatures (<15°C), 2) deep chlorophyll layers brought to the surface by mixing or upwelling events, and 3) blooms that truly developed in colder temperatures, possibly fueled by nutrients previously contained within the hypolimnia, or under ice. We also explore the antecedent conditions (e.g., biochemical and physical), ecological implications of cold-water blooms including carryover impacts to the summer/growing season, and how a changing climate may affect their occurrence. This work highlights an important aspect of cold-water bloom ecology that has been largely overlooked and demonstrates a need for new research on blooms that occur outside of conditions typically associated with phytoplankton blooms. 
 
-### Stream Nutrient Modeling in Lake Superior Watersheds
-
-This work is focused on using discrete water quality measruements, flowrate data, and nearshore Lake Superior observations to develop models to predict nutrient outputs from the watershed. This work also aims to identify connections between watershed inputs and nearshore water quality, with an emphasis on cyanobacterial blooms. 
-
 ### Cont Limno
 
 This work is part of the larger [LAGOS](https://lagoslakes.org/) project which is "a research program for the interdisciplinary, continental-scale study of lakes through time." My work will focus on leveraging this and other datasets to develop contenental scale models to predict water quality and investgate research questions regarding lakes characteristics at varying spatial scales. 
-
-### Cooperative Science and Monitoring Initiative (CSMI) - Lake Superior 2021
-
-The Cooperative Science and Monitoring Initiative (CSMI) is an initiative of the Science Annex of the Great Lakes Restoration Initiative. CSMI focuses on one of the Great Lakes each year with priorities set under LAMPs (Lake-wide Action Management Plans) for each lake. Every 5 years is an intensive sampling year, with the other 4 years having their own specific objective including data analysis, reporting out, setting priorities, and planning for the next field year. 
-
-As part of the broader effort I have co-led the coordination of CSMI funded and non-CSMI funded work in the nearshore of Lake Superior for the 2021 field sampling year which includes EPA, USGS, WI DNR, NPS-Apostle Islands, UMD-NRRI, UMD-LLO, LS-NERR, Northland College, and others. Part of my work has included developing interactive maps and an [ArcGIS Online website](https://lake-superior-csmi-2021-1-umn.hub.arcgis.com/) that have been used as planning tools to coordinate efforts to develop a comprehensive sampling effort for Lake Superior and to communicate with the public. I am also working with others to develop a metadata repository for CSMI data and assisstig in coordinating an end of season data meeting to discuss insights from the field season and identify manuscript opportunities. 
 
 ### Lake Superior Cyanobacteria Life Cycle Model
 
@@ -44,6 +42,12 @@ Recently emerging cyanobacterial blooms in oligotrophic Lake Superior have been 
 ### Organic Nutrients
 
 This project is a review paper developed from a the [GLEON](https://gleon.org/) Cyanoabcteria Working Group. Macronutrients (C,N,P) are critical for the growth of algae and cyanobacteria; however, we don’t have a good understanding of how different nutrient forms are utilized, particularly organic forms. This knowledge is critical in understanding cyanobacterial growth, subsequent bloom formation, succession, collapse and associated metabolite form/type (associated toxins), especially where nutrient control measures are being implemented. 
+
+### Cooperative Science and Monitoring Initiative (CSMI) - Lake Superior 2021
+
+The Cooperative Science and Monitoring Initiative (CSMI) is an initiative of the Science Annex of the Great Lakes Restoration Initiative. CSMI focuses on one of the Great Lakes each year with priorities set under LAMPs (Lake-wide Action Management Plans) for each lake. Every 5 years is an intensive sampling year, with the other 4 years having their own specific objective including data analysis, reporting out, setting priorities, and planning for the next field year. 
+
+As part of the broader effort I have co-led the coordination of CSMI funded and non-CSMI funded work in the nearshore of Lake Superior for the 2021 field sampling year which includes EPA, USGS, WI DNR, NPS-Apostle Islands, UMD-NRRI, UMD-LLO, LS-NERR, Northland College, and others. Part of my work has included developing interactive maps and an [ArcGIS Online website](https://lake-superior-csmi-2021-1-umn.hub.arcgis.com/) that have been used as planning tools to coordinate efforts to develop a comprehensive sampling effort for Lake Superior and to communicate with the public. I am also working with others to develop a metadata repository for CSMI data and assisstig in coordinating an end of season data meeting to discuss insights from the field season and identify manuscript opportunities. 
 
 ### Cyanobacterial Blooms in Oligotrophic Systems
 
