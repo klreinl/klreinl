@@ -17,6 +17,10 @@ Alhtough the threats listed above, and others not listed, are unique and importa
 
 ## Current Work
 
+### Cold-water Blooms
+
+This project is a review paper developed from a the [GLEON](https://gleon.org/) Cyanoabcteria Working Group. Phytoplankton blooms are on the rise globally and present significant challenges to managers and threaten ecological and public health. These blooms are typically associated with high temperatures (>20°C) and high nutrient concentrations. However, blooms are commonly observed outside of these conditions. We present documentation of blooms in cold-water conditions (<15°C), with an emphasis on green algae and cyanobacteria. There are three primary modes of cold-water bloom development: 1) those that were developed in preceding warmer conditions (e.g. >15°C), but observed during cold water temperatures (<15°C), 2) deep chlorophyll layers brought to the surface by mixing or upwelling events, and 3) blooms that truly developed in colder temperatures, possibly fueled by nutrients previously contained within the hypolimnia, or under ice. We also explore the antecedent conditions (e.g., biochemical and physical), ecological implications of cold-water blooms including carryover impacts to the summer/growing season, and how a changing climate may affect their occurrence. This work highlights an important aspect of cold-water bloom ecology that has been largely overlooked and demonstrates a need for new research on blooms that occur outside of conditions typically associated with phytoplankton blooms. 
+
 ### Stream Nutrient Modeling in Lake Superior Watersheds
 
 This work is focused on using discrete water quality measruements, flowrate data, and nearshore Lake Superior observations to develop models to predict nutrient outputs from the watershed. This work also aims to identify connections between watershed inputs and nearshore water quality, with an emphasis on cyanobacterial blooms. 
@@ -35,11 +39,11 @@ As part of the broader effort I have co-led the coordination of CSMI funded and 
 
 Recently emerging cyanobacterial blooms in oligotrophic Lake Superior have been primarily dominated by _Dolichospermum lemmermannii_ with akinetes present. We developed a life cycle model that incorporates this potentially important life stage using field data for temperature and nutrients. We tested 4 sets of akinete germination conditions using combinations of photosynthetically active radiation, total dissolved phosphorus, and temperature, and employed 2 approaches to model growth (minimum and multiplicative) for a total of 8 model runs. We also tested 4 model scenarios including 2x river TDP inputs, increased temperature, no river loading of cyanobacteria, and 2x river loading with 2 growth formulas and 4 germination conditions for a total of 32 model runs. 
 
+## Past Projects
+
 ### Organic Nutrients
 
 This project is a review paper developed from a the [GLEON](https://gleon.org/) Cyanoabcteria Working Group. Macronutrients (C,N,P) are critical for the growth of algae and cyanobacteria; however, we don’t have a good understanding of how different nutrient forms are utilized, particularly organic forms. This knowledge is critical in understanding cyanobacterial growth, subsequent bloom formation, succession, collapse and associated metabolite form/type (associated toxins), especially where nutrient control measures are being implemented. 
-
-## Past Projects
 
 ### Cyanobacterial Blooms in Oligotrophic Systems
 
