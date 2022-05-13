@@ -11,7 +11,7 @@ filename: index
 <img align="right" src="https://user-images.githubusercontent.com/51453715/131366491-5906f6f8-ac70-4ca5-af20-6221259a3668.jpg" height=300> 
 <br clear="left"/>
 
-Welcome! My name is Kait Reinl and I am a limnologist with a broad focus on how the synergistic effects of climate and watershed influence impacts inland water quality. My most recent work has focused on cyanobacterial blooms in Lake Superior using monitoring, experimental, and computer modeling approaches. I am currently the Research Coordinator for the Lake Superior [National Estuarine Research Reserve (NERR)](https://lakesuperiornerr.org/), where I serve as the lead scientist and guide the research proram for the Reserve. 
+Welcome! My name is Kait Reinl and I am a limnologist with a broad focus on how the synergistic effects of climate and watershed influence impacts inland water quality. My most recent work has focused on cyanobacterial blooms in Lake Superior using monitoring, experimental, and computer modeling approaches. I am currently the Research Coordinator for the Lake Superior [National Estuarine Research Reserve (NERR)](https://lakesuperiornerr.org/), where I serve as the lead scientist and guide the research program for the Reserve. 
 
 
 
