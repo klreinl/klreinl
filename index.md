@@ -21,4 +21,4 @@ Welcome! My name is Kait Reinl and I am a limnologist with a broad focus on how 
 I have two border collies named Willie Nelson and Dolly Parton, 6 laying hens, and currently reside in northern Minnesota. Some of my hobbies include XC skiing, reading, fishing, and hiking.   
   
   
-[Email](kreinl@wisc.edu) &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;[Twitter](https://twitter.com/kaitreinl)&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; [Google Scholar](https://scholar.google.com/citations?user=oSaCqcEAAAAJ&hl=en)
+kreinl@wisc.edu &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;[Twitter](https://twitter.com/kaitreinl)&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; [Google Scholar](https://scholar.google.com/citations?user=oSaCqcEAAAAJ&hl=en)
